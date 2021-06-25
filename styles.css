@@ -1,0 +1,110 @@
+/*Describe what the classes are supposed to look like*/
+.page-body, html{
+  background-color: rgba(115, 178, 241, 0.4);
+  font-family: Verdana, Arial, Calibri, Helvetica;
+  margin: 2px 2px 2px 2px;
+  border-radius: 10px 10px 10px 10px;
+}
+.page-header{
+  background-color: #5c8bd6;
+  color: #020e21;
+  margin: auto;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+  border-style: solid;
+  border-color: #243e69;
+  border-width: 3px;
+  display: block;
+  border-radius: 10px 10px 10px 10px;
+}
+.navigation-bar{
+  background-color: #5c81bd;
+  color: #020e21;
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  font-size: 75%;
+  font-weight: bold;
+  border-style: solid;
+  border-color: #243e69;
+  border-width: 3px;
+  display: block;
+  border-radius: 10px 10px 10px 10px;
+  }
+.button{
+  text-decoration: none;
+  color: #020e21;
+  background-color: #b3b3b3;
+  border-style: outset;
+  border-width: 1px;
+  border-color: #243e69;
+  padding: 5px 5px 5px 5px;
+  border-radius: 2px 2px 2px 2px;
+  margin: 5px 5px 5px 5px;
+  }
+.image-box{
+  float: flex;
+  width: 25vw; 
+  display: inline-block;
+  text-align: center;
+  border-style: solid;
+  border-color: #5c81bd;
+  border-width: 3px;
+  margin: 15px 15px 15px 15px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+}
+figcaption a{
+  color: #020e21;
+}
+.photo-link{
+  width: 100%
+  }
+.content-box{
+  background-color: #7b99c9;
+  color: #020e21;
+  float: left;
+  /*meant to be 30% of the viewport width*/
+  width: 30vw;
+  display: block;
+  margin: 5px 5px 5px 5px;
+  padding: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: #bec5d1;
+  border-width: 3px;
+  border-radius: 10px 10px 10px 10px;
+}
+.extra-info{
+  background-color: #5587d9;
+  color: #020e21;
+  float: right;
+  /*meant to be 30% of the viewport width*/
+  width: 30vw;
+  display: block;
+  margin: 5px 5px 5px 5px;
+  padding: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: #bec5d1;
+  border-width: 3px;
+  border-radius: 10px 10px 10px 10px;
+}
+.division{
+  clear: both;
+  margin: 2px 2px;
+}
+.page-footer{
+  background-color: #5c81bd;
+  color: #020e21;
+  display: block;
+  clear: both;
+  /*display: inline-block;
+  width: 99vw;*/
+  margin: auto;
+  padding: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: #243e69;
+  border-width: 3px;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  }
+
+
