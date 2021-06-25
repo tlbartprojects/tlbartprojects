@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey - I'm currently learning HTML and CSS.  This special repository is the current version of artist page hosted at GoDaddy: www.TLBArtProjects.com
+Hey - I'm currently learning HTML and CSS.  This special repository is the current version of my artist page hosted at GoDaddy: www.TLBArtProjects.com
 Thanks, TLB
